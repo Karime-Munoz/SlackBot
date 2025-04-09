@@ -1,0 +1,19 @@
+ANTES INSTALEN LO DE REQUERIMIENTOS CON: pip install -r requirements.txt
+
+
+Para correr 
+python -m streamlit run app.py
+O streamlit run app.py
+
+En otra terminal (al mismo tiempo correr ngrok)
+ngrok http 8501   
+
+Puse lo del bot (el token), solo corranlo, no hacer nada malo :(
+
+
+Para la foto tienen que terminar en ".jpg", ".png", ".jpeg", ".gif" y no ser privadas (con esto nos referimos a no necesitar un usuario
+o loguearse para verlas)
+Ej. de la foto perro - https://images.dog.ceo/breeds/husky/n02110185_1469.jpg
+Cono helado - https://i.imgur.com/O0DCcQy.jpg
+gato - https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg
+Yorkie  https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_2882.jpg
