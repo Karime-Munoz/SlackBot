@@ -1,4 +1,5 @@
 ANTES INSTALEN LO DE REQUERIMIENTOS CON: pip install -r requirements.txt
+También : choco install ngrok
 
 
 Para correr 
